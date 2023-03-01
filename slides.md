@@ -103,64 +103,50 @@ Software wwhat??
 ---
 ---
 
-# What is Open Source?
-Perangkat lunak yang memiliki sumber kode terbuka yang dapat dilihat, diedit, dan dikembangkan oleh siapa saja.
+# Who is a software engineer?
+Seseorang yang memiliki keterampilan dalam merancang perangkat lunak atau aplikasi.
 
-<div class="flex justify-between">
-<img src="/open-source.png" width="400" />
-<img src="/closed-source.png" width="400" />
+<div class="flex justify-center mt-20">
+<img src="/devices.png" width="500" />
 </div>
 
+<!-- Software Engineer adalah seseorang yang memiliki keterampilan dalam merancang, mengembangkan, menguji, dan memelihara perangkat lunak atau aplikasi yang digunakan pada komputer, perangkat seluler, dan perangkat lainnya. Seorang software engineer menggunakan pengetahuan teknologi, matematika, dan ilmu komputer untuk memecahkan masalah dan mengembangkan produk perangkat lunak yang berkualitas dan efisien. Mereka juga bekerja sama dengan tim pengembang dan pihak lain dalam sebuah organisasi untuk memastikan aplikasi yang dibuat dapat bekerja dengan baik dan memenuhi kebutuhan pengguna. Selain itu, software engineer juga terus mengikuti perkembangan teknologi dan tren terbaru untuk memastikan aplikasi yang mereka buat selalu up-to-date dan inovatif. -->
+
 ---
 ---
 
-# Open Source History
+# Types of software engineers
+Jenis software engineer berdasarkan fokus dan spesialisasi.
 
-<img src="/oss-history.png" alt="OSS history"  />
-<!--
-Sejarah open-source software dimulai pada tahun **1950-an dan 1960-an**, saat programmer memulai untuk bekerja sama dan berbagi kode sumber mereka. Pada tahun **1968, Richard Stallman memulai proyek GNU (GNU's Not Unix)**, bertujuan untuk menciptakan sistem operasi kompatibel Unix yang sumber kodenya terbuka.
+<div class="flex justify-between text-2xl">
 
-Pada tahun 1985, Stallman menciptakan organisasi Free Software Foundation (FSF) untuk mempromosikan dan mempertahankan filosofi perangkat lunak bebas dan terbuka. **Pada tahun 1989, Stallman mengeluarkan lisensi publik general GNU (GPL)**, yang menjadi lisensi open-source paling populer hingga sekarang.
+1. Frontend Engineer
+2. Backend Engineer
+3. Full-stack Engineer
+4. Mobile Engineer
+5. Infra Engineer
 
-**Pada tahun 1991, Linus Torvalds memulai proyek untuk membuat sistem operasi berbasis Unix yang terbuka, yang dikenal sebagai Linux**. Pada tahun 1993, permintaan akan perangkat lunak open-source mulai meningkat, dan banyak perusahaan mulai mengadopsi dan mengembangkan teknologi ini.
-
-Sejak saat itu, open-source software telah berkembang menjadi industri besar, dengan ribuan perangkat lunak dan proyek terbuka yang tersedia bagi siapa saja untuk digunakan dan dikembangkan. Saat ini, open-source software digunakan dalam berbagai sektor, termasuk bisnis, pemerintahan, pendidikan, dan teknologi.
--->
+<img src="/tehc.jpg" width="300" />
+</div>
 
 ---
 layout: statement
 ---
-
-# But why...?
-Kenapa harus open source?
+# Why software engineer?
+Alasan mengapa menjadi seorang software engineer.
 
 ---
-class: text-2xl
+title: Why software engineer??
+layout: fact
 ---
+# Why?
+## 1. Competitive Salary
 
-# Why Are People Choosing Open Source?
-
-<div class="flex justify-between">
-
-1. Fleksibilitas <ph-check class="c-green" />
-2. Kualitas <ph-check class="c-green" />
-3. Harga <ph-check class="c-green" />
-4. Keamanan <ph-check class="c-green" />
-5. Kolaborasi <ph-check class="c-green" />
-6. Transparansi <ph-check class="c-green" />
-
-<img src="/power-rangers.jpg" alt="Power rangers" class="rd-lg" width="400" />
-
-</div>
+## 2. Flexible Working Environment
 
 <!--
-1. Fleksibilitas: Perangkat lunak open-source dapat dilihat, diedit, dan dikembangkan oleh siapa saja, memungkinkan pengguna untuk menyesuaikan dan memodifikasi perangkat lunak untuk memenuhi kebutuhan mereka.
-2. Kualitas: Karena sumber kode terbuka, perangkat lunak open-source dapat diperiksa dan ditingkatkan oleh komunitas global, memastikan bahwa perangkat lunak bekerja dengan baik dan memenuhi standar kualitas tertentu.
-3. Harga: Perangkat lunak open-source biasanya gratis, membuatnya menjadi pilihan yang lebih murah bagi individu dan organisasi yang memiliki anggaran terbatas.
-4. Keamanan: Karena sumber kode terbuka, masalah keamanan dapat segera dikenali dan difix oleh komunitas, memastikan bahwa perangkat lunak aman untuk digunakan.
-5. Kolaborasi: Perangkat lunak open-source memungkinkan kolaborasi antar programmer dan organisasi dari seluruh dunia, mempercepat inovasi dan pengembangan.
-6. Transparansi: Perangkat lunak open-source memungkinkan pengguna untuk memahami bagaimana perangkat lunak bekerja dan memastikan bahwa perangkat lunak tidak melakukan hal-hal yang merugikan.
--->
+1. Berdasarkan data pada Februari 2023, rata-rata gaji Junior Software Engineer di Indonesia adalah sekitar 6 juta rupiah per bulan.
+ -->
 
 ---
 layout: section
@@ -169,94 +155,22 @@ layout: section
 Ingin mulai, tapi dari mana?
 
 ---
-layout: statement
----
-
-# Contribution Is Not Only by Code
-
----
-title: Contributions
 layout: center
 ---
+# Langkah awal...
 
-# Kita juga bisa berkontribusi dengan...
-
-- Melaporkan jika ada bug
-- Membuat tools untuk mempermudah penggunaan
-- Membuat dokumentasi
-- Dukungan secara finansial (cth. donasi, sponsor)
-
----
-layout: section
----
-
-# Before your first contribution
-Sebelum mulai berkontribusi, apa yang harus dipersiapkan?
-
----
----
-
-# Git
-Version control system.
-
-<img src="/git-branch.png" alt="Git branch" width="400" />
-
-- Branching
-- Merging
-- Conflict resolution
-- Rebasing
-- Git Workflow
-
----
----
-
-# Github <ph-github-logo-duotone />
-Git hosting service.
-
-<div class="flex justify-between">
-
-- Repository
-- Forking
-- Pull Request
-- Issues
-- Github Actions
-
-<div>
-<img src="/gh-pr-flow.png" class="rd" alt="Github PR flow" width="450" />
-
-[pull-request-review-process](https://blog.comtradedigital.com/blog/pull-request-review-process)
-</div>
-</div>
-
----
-layout: statement
----
-
-# Did I mention about license?
-
----
-layout: center
-title: MIT License
----
-The most commonly used license for OSS...
-
-<img src="/mit.png" width="500" alt="MIT illustration" />
-
-<!--
-Sebelum menggunakan berbagai jenis software kita juga perlu memperhatikan tentang lisensinya. Lisensi yang paling umum digunakan untuk OSS adalah MIT.
-Lisensi ini dikeluarkan oleh Massachusetts Institute of Technology (MIT) dan memungkinkan pengguna untuk menggunakan, memodifikasi, dan membagikan perangkat lunak yang dilisensikan dengan lisensi ini.
-Lisensi MIT sangat mudah dipahami dan menyediakan fleksibilitas tinggi bagi pengguna dan pengembang. Hal ini membuat lisensi MIT sangat populer untuk proyek perangkat lunak open-source, termasuk beberapa proyek populer seperti Ruby on Rails, Django, dan React.
-Lisensi MIT sangat ringan dan hanya membutuhkan beberapa syarat minimal, seperti pemberitahuan atas hak cipta dan pengecualian tanggung jawab hukum.
--->
+- Pendidikan atau pelatihan.
+- Proyek sampingan.
+- Networking.
 
 ---
 ---
 
 # Recap
-- Open source software adalah jenis software yang terbuka secara kode sumber dan pengembangan
-- Tidak hanya dengan menulis kode, untuk berkontribusi juga bisa melalui banyak cara
-- MIT adalah lisensi yang umum digunakan untuk OSS
-- Git dan Github adalah instrumen OSS yang sangat penting
+- Software engineer adalah orang yang membuat perangkat lunak.
+- Ada banyak bidang keahlian dalam SE, seperti: web, mobile, desktop, dsb.
+- Gaji yang kompetitif dan fleksibilitas dalam bekerja menjadi alasan orang menjadi SE.
+- Mulai berkarir dengan belajar yang giat, eksperimen, dan networking.
 
 ---
 layout: section
@@ -265,23 +179,3 @@ layout: section
 # Thank You!
 
 Slides bisa dijumpai di [kpb-oss.netlify.app](https://kpb-oss.netlify.app)
-
----
-layout: statement
----
-
-# I'm not done yet... <ph-smiley />
-Belum sempurna kalau belum membuat kontribusi.
-
----
-layout: center
----
-
-# Your first contribution
-
-<ph-github-logo /> [kalwabed/kpb-oss](https://github.com/kalwabed/kpb-oss)
-
----
-src: ./pages/contributors.md
-hide: false
----
