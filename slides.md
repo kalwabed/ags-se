@@ -43,6 +43,14 @@ Kalwabed Rizki
 </div>
 
 ---
+layout: center
+class: text-center text-2xl
+---
+<img src="ags-se-qrcode.png" alt="ags qrcode slides" width="350" />
+
+[dub.sh/ags-se](https://dub.sh/ags-se)
+
+---
 title: Kalwabed Rizki
 layout: two-cols
 ---
@@ -178,4 +186,4 @@ layout: section
 
 # Thank You!
 
-Slides bisa dijumpai di [kpb-oss.netlify.app](https://kpb-oss.netlify.app)
+Slides bisa dijumpai di [dub.sh/ags-se](https://dub.sh/ags-se)
